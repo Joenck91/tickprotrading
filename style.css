@@ -1,0 +1,116 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0 10px;
+    box-sizing: border-box;
+    font-family: 'Public Sans', sans-serif;
+    
+}
+body{
+    background-color: #171a4a;
+    color: aliceblue;
+    margin: 0 300px;
+}
+section{
+    width: 100%;
+    display:grid;
+    grid-template-columns:auto;
+    position: relative;
+
+}
+.logo{
+    width: 100%;
+    text-align: center;
+    
+}
+.logotick{
+    
+    width: 200px;
+    margin: 0;
+    padding: 0;
+    border-bottom: 40px;
+}
+.conteudo{
+   width: 100%;
+   text-align: center;
+   display: grid;
+   position: relative;
+
+}
+.texto{
+    display:flex;
+    position:relative;
+    text-align: center;
+    
+}
+.headsubhead{
+    display: flexbox;
+    text-align: center;
+    padding-top: 45px;   
+}
+.headline{
+    display:contents;
+    font-size: 35px;
+    
+}
+.vermelho1{
+    color: #00e4f5;
+    font-size: 40px;
+}
+.vermelho2{
+    color: #00e4f5;
+    font-size: 40px;
+
+}
+.subheadline {
+    
+    padding: 30px 40px 0 40px;
+    font-size: 25px;
+    
+}
+.pagamento{
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.gradpag{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 100px 0;
+    
+}
+.boxpreco{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    color: #00e4f5;
+}
+.bordapreco{
+    margin-top: 16px;
+    
+    
+}
+.preco{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: .5px;
+    color: #ff305c;
+}
+.video {
+    text-align:end;
+    background-color: #00b9c5;
+    display:inline-flexbox;
+  
+}
+.iframe{
+    display:flex;
+    text-align: end;
+}
