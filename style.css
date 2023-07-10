@@ -92,7 +92,7 @@ h2{
     padding-left: 25px;
 }
 .preco{
-    font-size: 90px;
+    font-size: 85px;
     filter: hue-rotate(323deg);
     color: #0cd6db;
     text-shadow: 0 0 12px rgba(12, 214, 219, 0.44), 0 0 4px #0cd6db;
@@ -103,7 +103,7 @@ h2{
     padding-bottom: 80px;
 }
 .link{
-    font-size: 54px;
+    font-size: 42px;
     letter-spacing: 1px;
     text-decoration: none;
     padding: 15px 40px;
